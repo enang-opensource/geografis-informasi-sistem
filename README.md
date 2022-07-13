@@ -23,7 +23,7 @@ Berikut tampilan aplikasi GIS
 * Home Page
 ![dashboard-home](https://user-images.githubusercontent.com/53687992/178710768-d4effd9f-4ba7-4ea7-8b47-517f789dde3b.PNG)
 
-* Home Page Lokasi/Wilayah
+* Home Page Lokasi & Wilayah
 ![homepage2](https://user-images.githubusercontent.com/53687992/178710390-0fc01175-05d8-4ded-86b1-6286131168c6.PNG)
 
 * Home Page Berita
