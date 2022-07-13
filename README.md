@@ -16,7 +16,7 @@ Berikut penjelasan fiture yang tersedia pada aplikasi ini .
 * Fiture Pencarian wilayah menggunakan openstreet maps
 
 
-Untuk Request database dan sumbangan bisa menghubungi mdhiftaa@gmail.com -
+Untuk Request database dan sumbangan bisa menghubungi mdhiftaa@gmail.com
 
 Berikut tampilan aplikasi GIS
 # Landing Page
